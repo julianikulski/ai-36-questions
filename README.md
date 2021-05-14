@@ -13,7 +13,7 @@ The code requires Python versions of 3.* and general libraries available through
 ## Project Motivation <a name="motivation"></a>
 I think the "36 questions to fall in love" are pretty well known by now and chances are that you, the reader, have already asked these questions another person. But would answers would you get if you asked an AI? I wanted to see how ridiculous the answers would be if I asked a chatbot. To my surprise, many answers made a lot of sense, were specific, and even displayed hints of empathy and personality. I wrote a blog post about this on [my Medium](https://medium.com/@julia.nikulski). You can go there to get a nice overview of the best answers I received. I put some of them into nice photos in the article.
 
-![Example of question-answer pair](https://github.com/ai-36-questions/blob/main/static/img/crystal_ball_second.jpg)
+![Example of question-answer pair](https://github.com/julianikulski/ai-36-questions/blob/main/static/img/crystal_ball_second.jpg)
 
 ## File Description <a name="descriptions"></a>
 There is only one file of relevance, and that is the Jupyter Notebook `ai_36_questions.ipynb` I created on Google Colab. The code is relatively short and concise because I don't fine-tune the models but use them as is through the transformers library architecture.
